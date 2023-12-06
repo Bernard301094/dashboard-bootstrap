@@ -205,11 +205,6 @@ a {
 
 
 /* --- --- MEDIA QUERIES --- --- */
-/* Dispositivos xs */
-@media screen and (max-width: 320px) {
-    
-}
-
 /* Dispositivos sm */
 @media screen and (max-width: 576px) {
     .barra-lateral {
@@ -222,11 +217,6 @@ a {
     .main .comentarios .comentario .botones button {
         width: 100%;
     }
-}
-
-/* Dispositivos lg */
-@media screen and (max-width: 992px) {
-    
 }
 
 /* Dispositivos xl */
@@ -246,9 +236,4 @@ a {
         width: 30px;
         height: 30px;
     }
-}
-
-/* Dispositivos xxl */
-@media screen and (max-width: 1400px) {
-    
 }
